@@ -78,5 +78,4 @@ public class GestorPartidas {
         return resultado;
     }
     
-    
 }
